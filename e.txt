@@ -1,0 +1,17 @@
+<html lang = "pt - br">
+<head>
+   <meta charset="utf-8">
+    <title> é retratado na imagem como que o lugar é calmo e super bonito</title>
+
+<sytle>
+h1{
+text-algn:center:
+color: black
+
+  
+<h1> Praia </h1>
+
+
+backgraund-imagem: url('ss')
+
+</html>
